@@ -1,0 +1,138 @@
+.libro {
+    display: inline-block;
+    margin-right: 100px;
+}
+  .search-container {
+      text-align: right;
+      margin-bottom: 20px;
+    }
+    
+    .search-input {
+      padding: 5px;
+      width: 300px;
+    }
+    .account-container {
+
+        position: fixed;  
+        top: 20px;
+        right: 20px;
+        }
+        
+        .account-link {
+        padding: 10px;
+        background-color: #f1f1f1;
+        color: #333;
+        text-decoration: none;
+        border-radius: 5px;
+        }
+        body {
+            font-family: Arial, sans-serif;
+          }
+          header {
+            background-color: #842525;
+            color: #fff;
+            padding: 20px;
+          }
+          nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+          }
+          nav ul li {
+            margin-right: 10px;
+          }
+          .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+          }
+          h1 {
+            margin-top: 0;
+          }
+          .search-bar {
+            display: flex;
+            margin-bottom: 20px;
+          }
+          .search-bar input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+          }
+          .search-bar button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+          }
+          .book-list {
+            list-style: none;
+            padding: 0;
+          }
+          .book-list li {
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+          }
+          .book-list li h2 {
+            margin-top: 0;
+          }
+          .book-list li p {
+            margin-bottom: 5px;
+          }
+          footer {
+            background-color: #D9D9D9;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+          }
+          .autor {
+            display: inline-block;
+            margin-right: 100px;
+          }
+          .account-link{
+            margin-left: 100px;
+        
+          }
+          .ir{
+            width: 100px;
+            height: 100px;
+          }
+          .registro-btn {
+            background-color: #4CAF50; /* Color de fondo */
+            color: white; /* Color del texto */
+            padding: 10px 20px; /* Espacio interno */
+            font-size: 16px; /* Tamaño de fuente */
+            border: none; /* Sin borde */
+            cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+            border-radius: 4px; /* Bordes redondeados */
+          }
+          
+          .registro-btn:hover {
+            background-color: #45a049; /* Cambiar color de fondo al pasar el ratón */
+          }
+          img {
+            overflow-clip-margin: content-box;
+            overflow: clip;
+        }
+        body {
+          font-family: Arial, sans-serif;
+      }
+      .it{
+        width: 232px;
+        height: 360px;
+      }
+          
+          
+          
+          
+      
+
+          
+    
